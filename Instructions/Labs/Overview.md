@@ -42,14 +42,4 @@ This architectural diagram illustrates the process of setting up and utilizing A
 
 These components work together to provide a comprehensive security management solution, enabling effective monitoring, analysis, and threat detection within a cloud environment
 
-## Lab Context
-
-In this Hands-on Lab, you will learn how to use Microsoft Sentinel to perform threat hunting by running queries to investigate your hypothesis. You will get Hands-on experience with Azure resources and how to use Microsoft Sentinel to detect attacks.
-
-### Exercise 1: Deploying Azure Sentinel and Onboarding Cloud Resources and Servers
-
-In this exercise, you will deploy the Log Analytics workspace and Microsoft Sentinel and also establish a connection between Windows and M365 data connectors to the Sentinel workspace.
-
-###  Exercise 2: Conducting log analytics and Threat Hunting
-
-In this exercise, you will define a hypothesis in Microsoft Sentinel and create hunts to detect the treats.
+## 
