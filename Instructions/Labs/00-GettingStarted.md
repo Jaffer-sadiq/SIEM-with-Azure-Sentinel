@@ -10,9 +10,9 @@ In this lab, you'll enable Azure Sentinel, deploy the Microsoft Sentinel Trainin
 
 Understand how to deploy Azure Sentinel, configure it, and onboard cloud resources and servers. Gain skills in advanced security analytics and creating a training environment. By the end of this lab, you will be able to:
 
-* **Deploying Azure Sentinel and Onboarding Cloud Resources and Servers**: This hands-on lab aims to enable Azure Sentinel, deploy the Sentinel Training Lab Solution, and onboard Azure resources. This setup provides advanced security analytics and a training environment, enhancing your ability to monitor, detect, and respond to security threats effectively.
+* **Deploying Azure Sentinel and Onboarding Cloud Resources and Servers**: Understand how to enable Azure Sentinel, deploy the Sentinel Training Lab Solution, and onboard Azure resources to create a robust security environment. This setup provides advanced security analytics and a training environment, enhancing your ability to monitor, detect, and respond to security threats effectively.
 
-* **Conducting Log Analytics and Threat Hunting**:This hands-on lab guides you to define a hypothesis for threat hunting, create structured hunts in Microsoft Sentinel, and analyze data using queries and bookmarks. You’ll also learn to create incidents from alerts and track metrics, enhancing your threat detection and investigation skills.
+* **Conducting Log Analytics and Threat Hunting**: Understand how to define a hypothesis for threat hunting, create structured hunts in Microsoft Sentinel, and analyze data using queries and bookmarks. You’ll also learn to create incidents from alerts and track metrics, enhancing your threat detection and investigation skills.
 
 ## Pre-requisites
 
