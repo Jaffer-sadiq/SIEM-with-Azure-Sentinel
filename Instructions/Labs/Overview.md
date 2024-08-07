@@ -42,4 +42,4 @@ This architectural diagram illustrates the process of setting up and utilizing A
 
 These components work together to provide a comprehensive security management solution, enabling effective monitoring, analysis, and threat detection within a cloud environment
 
-## 
+## Now, click on Next from the lower right corner to move on to the next page.
