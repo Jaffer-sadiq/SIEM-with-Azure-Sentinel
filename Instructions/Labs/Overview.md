@@ -4,35 +4,16 @@
 
 ## Overview
 
-### Key features of Microsoft Sentinel
+In this lab, you'll enable Azure Sentinel, deploy the Microsoft Sentinel Training Lab Solution, and onboard Azure resources. You'll also define a hypothesis for threat hunting, create structured hunts, and use queries to analyze data. This setup enhances your skills in monitoring, detecting, and responding to security threats effectively.
 
-  - **Log Collection:** Microsoft Sentinel collects and centralizes log data from a wide range of sources, including servers, applications, devices, and cloud services.
-  - **Threat Detection:** It uses built-in and custom detection rules to identify suspicious activities and security threats in real time.
-  - **Incident Investigation:** Security analysts can use Microsoft Sentinel to investigate incidents, analyze logs, and visualize the scope of security threats.
-  - **Automation:** Sentinel offers automation capabilities to respond to common security incidents and orchestrate complex security workflows.
-  - **Threat Intelligence:** It integrates with threat intelligence feeds to enrich data and improve threat detection.
-  - **Integration:** Microsoft Sentinel seamlessly integrates with other Microsoft security solutions and third-party tools.
+## Objective
 
-### Key features of Threat Hunting
+* **Deploying Azure Sentinel and Onboarding Cloud Resources and Servers**: 
+* **Conducting Log Analytics and Threat Hunting**: 
 
-  - **Skilled Analysts:** Threat hunting requires cybersecurity professionals with a deep understanding of attack techniques, tools, and indicators of compromise (IoCs).
-  - **Data Analysis:** Analysts analyze logs, network traffic, and other data sources to identify patterns or anomalies that may indicate security threats.
-  - **Hypothesis-Driven:** Threat hunting often involves forming hypotheses about potential threats and then investigating to validate or refute them.
-  - **Continuous Process:** Threat hunting is an ongoing and iterative process. It doesn't rely on specific rules but adapts to emerging threats.
+## Pre-requisites
 
-## Hands-on Labs Scenario
-
-Contoso is a global organization with a complex IT infrastructure that includes a combination of on-premises data centers and cloud-based resources. They are looking to enhance their security posture by deploying Azure Sentinel, Microsoft's cloud-native security information and event management (SIEM) and security orchestration automation and response (SOAR) solution. Additionally, Contoso aims to onboard its cloud resources and servers to Azure Sentinel to gain better visibility and proactive threat detection and response capabilities.
-
-In the pursuit of a robust cybersecurity strategy, Contoso recognizes the importance of proactive threat detection and continuous security monitoring. To achieve this, the organization has decided to implement a comprehensive log analytics and threat-hunting program.
-
-By implementing a robust log analytics and threat-hunting program, Contoso aims to proactively identify and mitigate threats, reduce the risk of security breaches, and maintain a strong security posture in an ever-evolving threat landscape. This approach will enable Contoso to stay ahead of potential threats and protect its digital assets effectively.
-
-## Azure services and related products
-
-  - Log Analytics Workspace
-  - Microsoft Sentinel
-  - Threat Hunting
+## Architecture
 
 ## Solution Architecture
 
