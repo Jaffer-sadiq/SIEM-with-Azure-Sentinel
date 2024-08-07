@@ -8,10 +8,13 @@ In this lab, you'll enable Azure Sentinel, deploy the Microsoft Sentinel Trainin
 
 ## Objective
 
-* **Deploying Azure Sentinel and Onboarding Cloud Resources and Servers**: 
-* **Conducting Log Analytics and Threat Hunting**: 
+* **Deploying Azure Sentinel and Onboarding Cloud Resources and Servers**: This hands-on lab aims to enable Azure Sentinel, deploy the Sentinel Training Lab Solution, and onboard Azure resources. This setup provides advanced security analytics and a training environment, enhancing your ability to monitor, detect, and respond to security threats effectively.
+
+* **Conducting Log Analytics and Threat Hunting**:This hands-on lab aims to define a hypothesis for threat hunting, create structured hunts in Microsoft Sentinel, and analyze data using queries and bookmarks. You’ll also learn to create incidents from alerts and track metrics, enhancing your threat detection and investigation skills.
 
 ## Pre-requisites
+
+
 
 ## Architecture
 
