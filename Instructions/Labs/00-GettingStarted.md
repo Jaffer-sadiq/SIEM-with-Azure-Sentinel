@@ -72,9 +72,9 @@ These components work together to provide a comprehensive security management so
      
 1. If you see the pop-up **Action Required**, click **Ask Later**.
 
-     ![](../media/asklater.png "Action required window")
+   ![](../media/asklater.png "Action required window")
      
-    > If you are getting popup **save password**, then select **Save & Turn on** option.
+   > If you are getting popup **save password**, then select **Save & Turn on** option.
        
 1. If you see the pop-up **Stay Signed in?**, click **No**.
 
@@ -84,11 +84,11 @@ These components work together to provide a comprehensive security management so
 
 1. Now you will see the Azure Portal Dashboard, Click on **Resource groups** from the Navigate panel to see the resource groups.
 
-     ![](../media/select-rg.png "Resource groups")
+   ![](../media/select-rg.png "Resource groups")
 
 1. Confirm you have a resource group named **Microsoft-Sentinel** present as shown in the below screenshot. You need to use this resource group throughout the entire process of lab execution.
 
-     ![](../media/sentinelrg.png "Resource groups")
+   ![](../media/sentinelrg.png "Resource groups")
    
 1. Use the **Next** button from the lower right corner to move on to the next page.
 
